@@ -7,6 +7,7 @@ from prophet.diagnostics import cross_validation
 from prophet.plot import plot_cross_validation_metric
 import base64
 
+print('Hi I am started')
 st.title('Time Series Forecasting Using Streamlit')
 
 st.write("IMPORT DATA")
